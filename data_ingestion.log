@@ -1,0 +1,24 @@
+2026-01-02 11:12:43,524 - INFO - ============================================================
+2026-01-02 11:12:44,564 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 11:12:45,422 - INFO - ============================================================
+2026-01-02 11:12:50,395 - INFO - Loading local file: 01_abs_total_value_dwellings.csv
+2026-01-02 11:12:53,706 - ERROR - Failed to load 01_abs_total_value_dwellings.csv: [Errno 2] No such file or directory: '01_abs_total_value_dwellings.csv'
+2026-01-02 11:13:34,178 - INFO - Loading local file: 03_rba_cash_rate_history.csv
+2026-01-02 11:13:35,983 - ERROR - Failed to load 03_rba_cash_rate_history.csv: [Errno 2] No such file or directory: '03_rba_cash_rate_history.csv'
+2026-01-02 11:13:42,711 - INFO - Loading local file: 05_abs_dwelling_approvals_monthly.csv
+2026-01-02 11:13:45,248 - ERROR - Failed to load 05_abs_dwelling_approvals_monthly.csv: [Errno 2] No such file or directory: '05_abs_dwelling_approvals_monthly.csv'
+2026-01-02 11:13:52,183 - INFO - Loading local file: 04_abs_capital_city_population.csv
+2026-01-02 11:13:54,395 - ERROR - Failed to load 04_abs_capital_city_population.csv: [Errno 2] No such file or directory: '04_abs_capital_city_population.csv'
+2026-01-02 11:14:36,649 - INFO - Loading local file: 07_capital_city_median_prices_quarterly.csv
+2026-01-02 11:15:01,858 - ERROR - Failed to load 07_capital_city_median_prices_quarterly.csv: [Errno 2] No such file or directory: '07_capital_city_median_prices_quarterly.csv'
+2026-01-02 11:15:08,531 - INFO - Loading local file: 06_corelogic_home_value_index.csv
+2026-01-02 11:15:11,839 - ERROR - Failed to load 06_corelogic_home_value_index.csv: [Errno 2] No such file or directory: '06_corelogic_home_value_index.csv'
+2026-01-02 11:15:18,762 - INFO - Ingestion log saved to raw_data\ingestion_log.json
+2026-01-02 11:15:20,079 - INFO - ============================================================
+2026-01-02 11:15:20,431 - INFO - Ingestion Complete: 0/6 files loaded
+2026-01-02 11:15:20,762 - INFO - ============================================================
+2026-01-02 11:17:37,263 - INFO - ============================================================
+2026-01-02 11:17:37,632 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 11:17:37,940 - INFO - ============================================================
+2026-01-02 11:17:43,886 - INFO - Loading local file: 01_abs_total_value_dwellings.csv
+2026-01-02 11:17:51,275 - ERROR - Failed to load 01_abs_total_value_dwellings.csv: [Errno 2] No such file or directory: '01_abs_total_value_dwellings.csv'

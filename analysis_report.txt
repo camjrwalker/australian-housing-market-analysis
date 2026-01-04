@@ -1,0 +1,62 @@
+
+================================================================================
+AUSTRALIAN HOUSING MARKET ANALYTICS REPORT
+Generated: 2026-01-02 15:20
+================================================================================
+
+1. DESCRIPTIVE ANALYTICS SUMMARY
+--------------------------------
+
+Key Statistics:
+                      count     mean     std    min      q1  median      q3     max  skewness  kurtosis    iqr     cv
+Sydney_Median_000      43.0  1184.30  182.46  850.0  1030.0  1150.0  1357.5  1530.0      0.12     -1.18  327.5  15.41
+Melbourne_Median_000   43.0   857.56  118.70  590.0   780.0   860.0   967.5  1030.0     -0.42     -0.68  187.5  13.84
+Brisbane_Median_000    43.0   730.81  251.95  470.0   525.0   580.0   925.0  1280.0      0.71     -0.97  400.0  34.48
+Adelaide_Median_000    43.0   681.40  247.79  420.0   472.5   555.0   877.5  1220.0      0.72     -0.91  405.0  36.37
+Perth_Median_000       43.0   623.72  206.61  445.0   467.5   515.0   730.0  1165.0      1.17      0.23  262.5  33.13
+Hobart_Median_000      43.0   579.77  164.31  350.0   445.0   505.0   747.5   810.0      0.09     -1.66  302.5  28.34
+Darwin_Median_000      43.0   526.86   71.77  450.0   465.0   500.0   590.0   710.0      0.70     -0.64  125.0  13.62
+Canberra_Median_000    43.0   808.60  162.72  580.0   685.0   720.0   990.0  1060.0      0.21     -1.71  305.0  20.12
+National_Median_000    43.0   756.40  158.27  540.0   635.0   675.0   892.5  1100.0      0.53     -1.08  257.5  20.92
+
+2. REGIONAL COMPARISON
+------------------------------
+           Current_Price_000  Price_5Yr_Ago_000  5Yr_Growth_Percent  1Yr_Growth_Percent  Volatility  Peak_Price_000  Trough_Price_000  Peak_to_Current_Percent
+Sydney                1530.0             1080.0               41.67                7.37        3.07          1530.0             850.0                     0.00
+Melbourne             1020.0              825.0               23.64                4.62        2.81          1030.0             590.0                    -0.97
+Brisbane              1280.0              615.0              108.13               12.28        2.42          1280.0             470.0                     0.00
+Adelaide              1220.0              590.0              106.78               11.93        1.83          1220.0             420.0                     0.00
+Perth                 1165.0              520.0              124.04               16.50        2.61          1165.0             445.0                     0.00
+Hobart                 750.0              555.0               35.14                0.67        3.07           810.0             350.0                    -7.41
+Darwin                 710.0              480.0               47.92               12.70        2.01           710.0             450.0                     0.00
+Canberra              1060.0              770.0               37.66                5.47        1.88          1060.0             580.0                     0.00
+National              1100.0              685.0               60.58               10.55        2.30          1100.0             540.0                     0.00
+
+4. PRICE FORECAST
+------------------------------
+Method: Exponential Smoothing with Trend
+Trend: Upward
+Forecasted values: [1047.9, 1066.1, 1084.3, 1102.5]
+
+
+5. SCENARIO ANALYSIS
+------------------------------
+
+BASE_CASE:
+  Rates stable, moderate growth continues
+  12-month price projection: $1,155k
+
+BULL_CASE:
+  Rate cuts, strong economic growth
+  12-month price projection: $1,210k
+
+BEAR_CASE:
+  Rate rises, economic slowdown
+  12-month price projection: $1,045k
+
+SEVERE_DOWNTURN:
+  Recession, credit tightening
+  12-month price projection: $935k
+
+
+================================================================================

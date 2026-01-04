@@ -1,0 +1,16 @@
+{
+  "name": "Australian Property Market Dark",
+  "dataColors": [
+    "#F1C40F",
+    "#1ABC9C",
+    "#E74C3C",
+    "#9B59B6",
+    "#AED6F1",
+    "#2E86C1",
+    "#3498DB",
+    "#E67E22"
+  ],
+  "background": "#1B2631",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#2C3E50"
+}

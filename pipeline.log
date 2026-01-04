@@ -1,0 +1,522 @@
+2026-01-02 11:42:21,994 - INFO - Starting full pipeline at 2026-01-02 11:41:56.552183
+2026-01-02 11:42:22,540 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing
+2026-01-02 11:43:14,741 - INFO - ============================================================
+2026-01-02 11:43:16,804 - INFO - STAGE 1: DATA INGESTION
+2026-01-02 11:43:18,197 - INFO - ============================================================
+2026-01-02 11:43:27,727 - INFO - NumExpr defaulting to 6 threads.
+2026-01-02 11:43:53,413 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 11:43:53,622 - INFO - Output directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 11:44:26,564 - INFO - ============================================================
+2026-01-02 11:44:26,782 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 11:44:26,997 - INFO - ============================================================
+2026-01-02 11:44:30,588 - INFO - Found 8 CSV files in D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 11:44:31,021 - INFO -   - 01_abs_total_value_dwellings.csv
+2026-01-02 11:44:31,542 - INFO -   - 02_abs_mean_dwelling_prices_by_state.csv
+2026-01-02 11:44:32,016 - INFO -   - 03_rba_cash_rate_history.csv
+2026-01-02 11:44:32,448 - INFO -   - 04_abs_capital_city_population.csv
+2026-01-02 11:44:32,872 - INFO -   - 05_abs_dwelling_approvals_monthly.csv
+2026-01-02 11:44:33,299 - INFO -   - 06_corelogic_home_value_index.csv
+2026-01-02 11:44:33,716 - INFO -   - 07_capital_city_median_prices_quarterly.csv
+2026-01-02 11:44:34,116 - INFO -   - 08_housing_affordability_metrics.csv
+2026-01-02 11:44:35,992 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\01_abs_total_value_dwellings.csv
+2026-01-02 11:44:36,842 - INFO - Loaded 21 rows, 3 columns
+2026-01-02 11:51:11,621 - INFO - Starting full pipeline at 2026-01-02 11:51:01.408933
+2026-01-02 11:51:24,206 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing
+2026-01-02 11:51:32,278 - INFO - ============================================================
+2026-01-02 11:51:32,943 - INFO - STAGE 1: DATA INGESTION
+2026-01-02 11:51:33,547 - INFO - ============================================================
+2026-01-02 11:51:48,907 - INFO - NumExpr defaulting to 6 threads.
+2026-01-02 11:54:18,375 - INFO - ============================================================
+2026-01-02 11:54:23,502 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 11:54:25,179 - INFO - ============================================================
+2026-01-02 11:54:30,278 - INFO - Loading local file: 01_abs_total_value_dwellings.csv
+2026-01-02 11:54:34,266 - ERROR - Failed to load 01_abs_total_value_dwellings.csv: [Errno 2] No such file or directory: '01_abs_total_value_dwellings.csv'
+2026-01-02 12:05:04,452 - INFO - Starting full pipeline at 2026-01-02 12:05:02.380427
+2026-01-02 12:05:07,426 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 12:05:12,566 - INFO - ============================================================
+2026-01-02 12:05:13,184 - INFO - STAGE 1: DATA INGESTION
+2026-01-02 12:05:13,669 - INFO - ============================================================
+2026-01-02 12:05:18,895 - INFO - NumExpr defaulting to 6 threads.
+2026-01-02 12:05:57,170 - INFO - ============================================================
+2026-01-02 12:05:57,409 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 12:05:57,648 - INFO - ============================================================
+2026-01-02 12:06:01,720 - INFO - Loading local file: 01_abs_total_value_dwellings.csv
+2026-01-02 12:06:02,755 - INFO - Loaded 21 rows, 3 columns
+2026-01-02 12:07:42,868 - INFO - Starting full pipeline at 2026-01-02 12:07:40.227881
+2026-01-02 12:07:44,961 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 12:07:48,717 - INFO - ============================================================
+2026-01-02 12:07:49,344 - INFO - STAGE 1: DATA INGESTION
+2026-01-02 12:07:50,275 - INFO - ============================================================
+2026-01-02 12:07:55,284 - INFO - NumExpr defaulting to 6 threads.
+2026-01-02 12:08:56,628 - INFO - ============================================================
+2026-01-02 12:08:57,015 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 12:09:03,440 - INFO - ============================================================
+2026-01-02 12:09:06,217 - INFO - Loading local file: 01_abs_total_value_dwellings.csv
+2026-01-02 12:09:08,337 - INFO - Loaded 21 rows, 3 columns
+2026-01-02 12:12:12,162 - INFO - Starting full pipeline at 2026-01-02 12:12:09.462927
+2026-01-02 12:12:12,557 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 12:12:16,663 - INFO - ============================================================
+2026-01-02 12:12:17,037 - INFO - STAGE 1: DATA INGESTION
+2026-01-02 12:12:17,622 - INFO - ============================================================
+2026-01-02 12:12:21,320 - INFO - NumExpr defaulting to 6 threads.
+2026-01-02 12:13:08,956 - INFO - ============================================================
+2026-01-02 12:13:29,531 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 12:13:37,634 - INFO - ============================================================
+2026-01-02 12:13:43,332 - INFO - Loading local file: 01_abs_total_value_dwellings.csv
+2026-01-02 12:13:46,777 - INFO - Loaded 21 rows, 3 columns
+2026-01-02 12:25:18,953 - INFO - Starting full pipeline at 2026-01-02 12:25:17.848780
+2026-01-02 12:25:19,173 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 12:25:20,496 - INFO - ============================================================
+2026-01-02 12:25:32,676 - INFO - STAGE 1: DATA INGESTION
+2026-01-02 12:25:33,194 - INFO - ============================================================
+2026-01-02 12:25:36,875 - INFO - NumExpr defaulting to 6 threads.
+2026-01-02 12:28:57,296 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 12:28:58,000 - INFO - Output directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 12:29:46,881 - INFO - ============================================================
+2026-01-02 12:29:47,096 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 12:29:47,308 - INFO - ============================================================
+2026-01-02 12:29:58,910 - INFO - Found 8 CSV files in D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 12:29:59,840 - INFO -   - 01_abs_total_value_dwellings.csv
+2026-01-02 12:30:04,228 - INFO -   - 02_abs_mean_dwelling_prices_by_state.csv
+2026-01-02 12:30:05,153 - INFO -   - 03_rba_cash_rate_history.csv
+2026-01-02 12:30:05,777 - INFO -   - 04_abs_capital_city_population.csv
+2026-01-02 12:30:06,443 - INFO -   - 05_abs_dwelling_approvals_monthly.csv
+2026-01-02 12:30:07,028 - INFO -   - 06_corelogic_home_value_index.csv
+2026-01-02 12:30:07,614 - INFO -   - 07_capital_city_median_prices_quarterly.csv
+2026-01-02 12:30:08,225 - INFO -   - 08_housing_affordability_metrics.csv
+2026-01-02 12:30:11,016 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\01_abs_total_value_dwellings.csv
+2026-01-02 12:30:12,068 - INFO - Loaded 21 rows, 3 columns
+2026-01-02 12:30:27,320 - INFO - [OK] Successfully loaded: dwelling_value
+2026-01-02 12:30:29,195 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\03_rba_cash_rate_history.csv
+2026-01-02 12:30:30,736 - INFO - Loaded 116 rows, 3 columns
+2026-01-02 12:30:48,407 - INFO - [OK] Successfully loaded: cash_rate
+2026-01-02 12:31:01,916 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\05_abs_dwelling_approvals_monthly.csv
+2026-01-02 12:31:03,952 - INFO - Loaded 59 rows, 7 columns
+2026-01-02 12:31:16,672 - INFO - [OK] Successfully loaded: dwelling_approvals
+2026-01-02 12:31:18,687 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\04_abs_capital_city_population.csv
+2026-01-02 12:31:20,118 - INFO - Loaded 9 rows, 8 columns
+2026-01-02 12:32:04,196 - INFO - [OK] Successfully loaded: population
+2026-01-02 12:32:05,332 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\07_capital_city_median_prices_quarterly.csv
+2026-01-02 12:32:06,263 - INFO - Loaded 43 rows, 11 columns
+2026-01-02 12:32:16,898 - INFO - [OK] Successfully loaded: median_prices
+2026-01-02 12:32:17,990 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\06_corelogic_home_value_index.csv
+2026-01-02 12:32:19,618 - INFO - Loaded 35 rows, 12 columns
+2026-01-02 12:32:41,353 - INFO - [OK] Successfully loaded: home_value_index
+2026-01-02 12:32:48,045 - INFO - Ingestion log saved to D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\ingestion_log.json
+2026-01-02 12:32:50,176 - INFO - ============================================================
+2026-01-02 12:32:51,319 - INFO - Ingestion Complete: 6/6 files loaded
+2026-01-02 12:32:53,023 - INFO - ============================================================
+2026-01-02 12:33:10,570 - INFO - Stage 1 completed successfully
+2026-01-02 12:33:11,454 - INFO - ============================================================
+2026-01-02 12:33:11,654 - INFO - STAGE 2: DATA STAGING
+2026-01-02 12:33:11,844 - INFO - ============================================================
+2026-01-02 12:36:02,021 - INFO - Staging dwelling values data...
+2026-01-02 12:36:03,915 - INFO - Profiling dataset: dwelling_values
+2026-01-02 12:37:10,117 - INFO - Removed 0 duplicate rows
+2026-01-02 12:37:13,535 - INFO - Exported staged data to staged_data\dwelling_values_staged.csv
+2026-01-02 12:37:15,121 - INFO - Staging cash rate data...
+2026-01-02 12:37:15,672 - INFO - Profiling dataset: cash_rate
+2026-01-02 12:38:30,840 - INFO - Removed 0 duplicate rows
+2026-01-02 12:38:33,090 - INFO - Exported staged data to staged_data\cash_rate_staged.csv
+2026-01-02 12:38:34,751 - INFO - Staging median prices data...
+2026-01-02 12:38:35,228 - INFO - Profiling dataset: median_prices
+2026-01-02 12:41:12,474 - INFO - Exported staged data to staged_data\median_prices_staged.csv
+2026-01-02 12:41:14,220 - INFO - Profiling report saved to staged_data\profiling_report.json
+2026-01-02 12:41:15,712 - INFO - Cleansing log saved to staged_data\cleansing_log.json
+2026-01-02 12:41:25,010 - INFO - Stage 2 completed successfully
+2026-01-02 12:41:27,474 - INFO - ============================================================
+2026-01-02 12:41:28,129 - INFO - STAGE 3: DATABASE STORAGE
+2026-01-02 12:41:28,635 - INFO - ============================================================
+2026-01-02 14:45:35,298 - INFO - Connected to database: australian_housing.db
+2026-01-02 14:46:19,782 - INFO - Database schema created successfully
+2026-01-02 14:46:22,454 - INFO - Populating dim_date from 2015 to 2026
+2026-01-02 14:49:06,466 - INFO - Populated 4383 date records
+2026-01-02 14:49:26,690 - INFO - Populated 12 location records
+2026-01-02 14:49:57,636 - INFO - Populated 5 property type records
+2026-01-02 14:49:57,664 - INFO - Database connection closed
+2026-01-02 14:49:57,667 - INFO - Stage 3 completed successfully
+2026-01-02 14:49:57,668 - INFO - ============================================================
+2026-01-02 14:49:57,669 - INFO - STAGE 4: DATA TRANSFORMATION
+2026-01-02 14:49:57,669 - INFO - ============================================================
+2026-01-02 14:49:57,685 - INFO - Transforming prices dataset...
+2026-01-02 14:49:57,688 - INFO - Created Sydney_Median_000_MA2
+2026-01-02 14:49:57,689 - INFO - Created Sydney_Median_000_MA4
+2026-01-02 14:49:57,690 - INFO - Created Melbourne_Median_000_MA2
+2026-01-02 14:49:57,691 - INFO - Created Melbourne_Median_000_MA4
+2026-01-02 14:49:57,692 - INFO - Created Brisbane_Median_000_MA2
+2026-01-02 14:49:57,693 - INFO - Created Brisbane_Median_000_MA4
+2026-01-02 14:49:57,694 - INFO - Created Adelaide_Median_000_MA2
+2026-01-02 14:49:57,695 - INFO - Created Adelaide_Median_000_MA4
+2026-01-02 14:49:57,696 - INFO - Created Perth_Median_000_MA2
+2026-01-02 14:49:57,697 - INFO - Created Perth_Median_000_MA4
+2026-01-02 14:49:57,698 - INFO - Created Hobart_Median_000_MA2
+2026-01-02 14:49:57,699 - INFO - Created Hobart_Median_000_MA4
+2026-01-02 14:49:57,700 - INFO - Created Darwin_Median_000_MA2
+2026-01-02 14:49:57,701 - INFO - Created Darwin_Median_000_MA4
+2026-01-02 14:49:57,702 - INFO - Created Canberra_Median_000_MA2
+2026-01-02 14:49:57,703 - INFO - Created Canberra_Median_000_MA4
+2026-01-02 14:49:57,704 - INFO - Created National_Median_000_MA2
+2026-01-02 14:49:57,705 - INFO - Created National_Median_000_MA4
+2026-01-02 14:49:57,709 - INFO - Created Sydney_Median_000_YoY_Growth
+2026-01-02 14:49:57,710 - INFO - Created Melbourne_Median_000_YoY_Growth
+2026-01-02 14:49:57,712 - INFO - Created Brisbane_Median_000_YoY_Growth
+2026-01-02 14:49:57,713 - INFO - Created Adelaide_Median_000_YoY_Growth
+2026-01-02 14:49:57,714 - INFO - Created Perth_Median_000_YoY_Growth
+2026-01-02 14:49:57,716 - INFO - Created Hobart_Median_000_YoY_Growth
+2026-01-02 14:49:57,718 - INFO - Created Darwin_Median_000_YoY_Growth
+2026-01-02 14:49:57,719 - INFO - Created Canberra_Median_000_YoY_Growth
+2026-01-02 14:49:57,721 - INFO - Created National_Median_000_YoY_Growth
+2026-01-02 14:49:57,723 - INFO - Created Sydney_Median_000_QoQ_Growth
+2026-01-02 14:49:57,724 - INFO - Created Melbourne_Median_000_QoQ_Growth
+2026-01-02 14:49:57,726 - INFO - Created Brisbane_Median_000_QoQ_Growth
+2026-01-02 14:49:57,728 - INFO - Created Adelaide_Median_000_QoQ_Growth
+2026-01-02 14:49:57,729 - INFO - Created Perth_Median_000_QoQ_Growth
+2026-01-02 14:49:57,731 - INFO - Created Hobart_Median_000_QoQ_Growth
+2026-01-02 14:49:57,732 - INFO - Created Darwin_Median_000_QoQ_Growth
+2026-01-02 14:49:57,733 - INFO - Created Canberra_Median_000_QoQ_Growth
+2026-01-02 14:49:57,735 - INFO - Created National_Median_000_QoQ_Growth
+2026-01-02 14:49:57,737 - INFO - Created volatility metrics for Sydney_Median_000
+2026-01-02 14:49:57,739 - INFO - Created volatility metrics for Melbourne_Median_000
+2026-01-02 14:49:57,741 - INFO - Created volatility metrics for Brisbane_Median_000
+2026-01-02 14:49:57,743 - INFO - Created volatility metrics for Adelaide_Median_000
+2026-01-02 14:49:57,745 - INFO - Created volatility metrics for Perth_Median_000
+2026-01-02 14:49:57,747 - INFO - Created volatility metrics for Hobart_Median_000
+2026-01-02 14:49:57,749 - INFO - Created volatility metrics for Darwin_Median_000
+2026-01-02 14:49:57,751 - INFO - Created volatility metrics for Canberra_Median_000
+2026-01-02 14:49:57,752 - INFO - Created volatility metrics for National_Median_000
+2026-01-02 14:49:57,760 - INFO - Created market indicators
+2026-01-02 14:49:57,770 - INFO - Created lagged features with lags: [1, 2, 4]
+2026-01-02 14:49:57,940 - INFO - Exported transformed data to transformed_data\median_prices_transformed.csv
+2026-01-02 14:49:57,943 - INFO - Transforming dwelling values dataset...
+2026-01-02 14:49:57,944 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_MA2
+2026-01-02 14:49:57,945 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_MA4
+2026-01-02 14:49:57,947 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_YoY_Growth
+2026-01-02 14:49:57,949 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_QoQ_Growth
+2026-01-02 14:49:57,954 - INFO - Created market indicators
+2026-01-02 14:49:57,986 - INFO - Exported transformed data to transformed_data\dwelling_values_transformed.csv
+2026-01-02 14:49:57,989 - INFO - Transforming interest rates dataset...
+2026-01-02 14:49:58,039 - INFO - Exported transformed data to transformed_data\interest_rates_transformed.csv
+2026-01-02 14:49:58,042 - INFO - Stage 4 completed successfully
+2026-01-02 14:49:58,042 - INFO - ============================================================
+2026-01-02 14:49:58,042 - INFO - STAGE 5: STATISTICAL ANALYSIS
+2026-01-02 14:49:58,043 - INFO - ============================================================
+2026-01-02 14:50:02,643 - INFO - Calculating descriptive statistics...
+2026-01-02 14:50:02,705 - INFO - Performing regional comparison...
+2026-01-02 14:50:02,734 - INFO - Analysing trends for National_Median_000...
+2026-01-02 14:50:03,387 - INFO - Calculating correlations...
+2026-01-02 14:50:03,409 - INFO - Generating 4-period forecast...
+2026-01-02 14:50:03,412 - INFO - Generating market scenarios...
+2026-01-02 14:50:03,445 - INFO - Results saved to analysis_output
+2026-01-02 14:50:03,465 - INFO - Stage 5 completed successfully
+2026-01-02 14:50:03,466 - INFO - ============================================================
+2026-01-02 14:50:03,466 - INFO - PIPELINE COMPLETE
+2026-01-02 14:50:03,466 - INFO - ============================================================
+2026-01-02 14:50:03,466 - INFO - Total duration: 2:24:45.618053
+2026-01-02 15:10:33,657 - INFO - Starting full pipeline at 2026-01-02 15:10:33.657718
+2026-01-02 15:10:33,659 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 15:10:33,659 - INFO - ============================================================
+2026-01-02 15:10:33,659 - INFO - STAGE 1: DATA INGESTION
+2026-01-02 15:10:33,659 - INFO - ============================================================
+2026-01-02 15:10:34,817 - INFO - NumExpr defaulting to 6 threads.
+2026-01-02 15:10:35,811 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 15:10:35,811 - INFO - Output directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 15:10:35,811 - INFO - ============================================================
+2026-01-02 15:10:35,812 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 15:10:35,812 - INFO - ============================================================
+2026-01-02 15:10:35,814 - INFO - Found 8 CSV files in D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 15:10:35,814 - INFO -   - 01_abs_total_value_dwellings.csv
+2026-01-02 15:10:35,814 - INFO -   - 02_abs_mean_dwelling_prices_by_state.csv
+2026-01-02 15:10:35,814 - INFO -   - 03_rba_cash_rate_history.csv
+2026-01-02 15:10:35,814 - INFO -   - 04_abs_capital_city_population.csv
+2026-01-02 15:10:35,815 - INFO -   - 05_abs_dwelling_approvals_monthly.csv
+2026-01-02 15:10:35,815 - INFO -   - 06_corelogic_home_value_index.csv
+2026-01-02 15:10:35,815 - INFO -   - 07_capital_city_median_prices_quarterly.csv
+2026-01-02 15:10:35,815 - INFO -   - 08_housing_affordability_metrics.csv
+2026-01-02 15:10:35,815 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\01_abs_total_value_dwellings.csv
+2026-01-02 15:10:35,822 - INFO - Loaded 21 rows, 3 columns
+2026-01-02 15:10:35,827 - INFO - [OK] Successfully loaded: dwelling_value
+2026-01-02 15:10:35,827 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\03_rba_cash_rate_history.csv
+2026-01-02 15:10:35,832 - INFO - Loaded 116 rows, 3 columns
+2026-01-02 15:10:35,834 - INFO - [OK] Successfully loaded: cash_rate
+2026-01-02 15:10:35,834 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\05_abs_dwelling_approvals_monthly.csv
+2026-01-02 15:10:35,837 - INFO - Loaded 59 rows, 7 columns
+2026-01-02 15:10:35,840 - INFO - [OK] Successfully loaded: dwelling_approvals
+2026-01-02 15:10:35,840 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\04_abs_capital_city_population.csv
+2026-01-02 15:10:35,844 - INFO - Loaded 9 rows, 8 columns
+2026-01-02 15:10:35,847 - INFO - [OK] Successfully loaded: population
+2026-01-02 15:10:35,847 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\07_capital_city_median_prices_quarterly.csv
+2026-01-02 15:10:35,850 - INFO - Loaded 43 rows, 11 columns
+2026-01-02 15:10:35,853 - INFO - [OK] Successfully loaded: median_prices
+2026-01-02 15:10:35,853 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\06_corelogic_home_value_index.csv
+2026-01-02 15:10:35,856 - INFO - Loaded 35 rows, 12 columns
+2026-01-02 15:10:35,859 - INFO - [OK] Successfully loaded: home_value_index
+2026-01-02 15:10:35,862 - INFO - Ingestion log saved to D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\ingestion_log.json
+2026-01-02 15:10:35,862 - INFO - ============================================================
+2026-01-02 15:10:35,862 - INFO - Ingestion Complete: 6/6 files loaded
+2026-01-02 15:10:35,862 - INFO - ============================================================
+2026-01-02 15:10:35,872 - INFO - Stage 1 completed successfully
+2026-01-02 15:10:35,872 - INFO -  
+2026-01-02 15:10:35,873 - INFO - ============================================================
+2026-01-02 15:10:35,873 - INFO - STAGE 2: DATA STAGING
+2026-01-02 15:10:35,873 - INFO - ============================================================
+2026-01-02 15:10:35,880 - INFO - Staging dwelling values data...
+2026-01-02 15:10:35,880 - INFO - Profiling dataset: dwelling_values
+2026-01-02 15:10:35,896 - INFO - Removed 0 duplicate rows
+2026-01-02 15:10:36,662 - INFO - Exported staged data to staged_data\dwelling_values_staged.csv
+2026-01-02 15:10:36,665 - INFO - Staging cash rate data...
+2026-01-02 15:10:36,666 - INFO - Profiling dataset: cash_rate
+2026-01-02 15:10:36,676 - INFO - Removed 0 duplicate rows
+2026-01-02 15:10:36,708 - INFO - Exported staged data to staged_data\cash_rate_staged.csv
+2026-01-02 15:10:36,711 - INFO - Staging median prices data...
+2026-01-02 15:10:36,711 - INFO - Profiling dataset: median_prices
+2026-01-02 15:10:36,822 - INFO - Exported staged data to staged_data\median_prices_staged.csv
+2026-01-02 15:10:36,827 - INFO - Profiling report saved to staged_data\profiling_report.json
+2026-01-02 15:10:36,828 - INFO - Cleansing log saved to staged_data\cleansing_log.json
+2026-01-02 15:10:36,829 - INFO - Stage 2 completed successfully
+2026-01-02 15:10:36,829 - INFO - ============================================================
+2026-01-02 15:10:36,829 - INFO - STAGE 3: DATABASE STORAGE
+2026-01-02 15:10:36,829 - INFO - ============================================================
+2026-01-02 15:10:36,862 - INFO - Connected to database: australian_housing.db
+2026-01-02 15:10:37,054 - ERROR - Error executing: -- ===============================================... - view vw_price_summary_by_city already exists
+2026-01-02 15:10:37,054 - ERROR - Error executing: -- View: Market Overview
+        CREATE VIEW vw_ma... - view vw_market_overview already exists
+2026-01-02 15:10:37,055 - ERROR - Error executing: -- View: Affordability Metrics
+        CREATE VIEW... - view vw_affordability_metrics already exists
+2026-01-02 15:10:37,055 - INFO - Database schema created successfully
+2026-01-02 15:10:37,055 - INFO - Populating dim_date from 2015 to 2026
+2026-01-02 15:10:40,431 - INFO - Populated 4383 date records
+2026-01-02 15:10:41,178 - INFO - Populated 12 location records
+2026-01-02 15:10:42,007 - INFO - Populated 5 property type records
+2026-01-02 15:10:42,021 - INFO - Database connection closed
+2026-01-02 15:10:42,022 - INFO - Stage 3 completed successfully
+2026-01-02 15:10:42,022 - INFO - ============================================================
+2026-01-02 15:10:42,022 - INFO - STAGE 4: DATA TRANSFORMATION
+2026-01-02 15:10:42,023 - INFO - ============================================================
+2026-01-02 15:10:42,034 - INFO - Transforming prices dataset...
+2026-01-02 15:10:42,035 - INFO - Created Sydney_Median_000_MA2
+2026-01-02 15:10:42,036 - INFO - Created Sydney_Median_000_MA4
+2026-01-02 15:10:42,037 - INFO - Created Melbourne_Median_000_MA2
+2026-01-02 15:10:42,038 - INFO - Created Melbourne_Median_000_MA4
+2026-01-02 15:10:42,039 - INFO - Created Brisbane_Median_000_MA2
+2026-01-02 15:10:42,040 - INFO - Created Brisbane_Median_000_MA4
+2026-01-02 15:10:42,042 - INFO - Created Adelaide_Median_000_MA2
+2026-01-02 15:10:42,043 - INFO - Created Adelaide_Median_000_MA4
+2026-01-02 15:10:42,044 - INFO - Created Perth_Median_000_MA2
+2026-01-02 15:10:42,045 - INFO - Created Perth_Median_000_MA4
+2026-01-02 15:10:42,046 - INFO - Created Hobart_Median_000_MA2
+2026-01-02 15:10:42,047 - INFO - Created Hobart_Median_000_MA4
+2026-01-02 15:10:42,048 - INFO - Created Darwin_Median_000_MA2
+2026-01-02 15:10:42,049 - INFO - Created Darwin_Median_000_MA4
+2026-01-02 15:10:42,050 - INFO - Created Canberra_Median_000_MA2
+2026-01-02 15:10:42,051 - INFO - Created Canberra_Median_000_MA4
+2026-01-02 15:10:42,052 - INFO - Created National_Median_000_MA2
+2026-01-02 15:10:42,052 - INFO - Created National_Median_000_MA4
+2026-01-02 15:10:42,055 - INFO - Created Sydney_Median_000_YoY_Growth
+2026-01-02 15:10:42,056 - INFO - Created Melbourne_Median_000_YoY_Growth
+2026-01-02 15:10:42,058 - INFO - Created Brisbane_Median_000_YoY_Growth
+2026-01-02 15:10:42,060 - INFO - Created Adelaide_Median_000_YoY_Growth
+2026-01-02 15:10:42,061 - INFO - Created Perth_Median_000_YoY_Growth
+2026-01-02 15:10:42,063 - INFO - Created Hobart_Median_000_YoY_Growth
+2026-01-02 15:10:42,064 - INFO - Created Darwin_Median_000_YoY_Growth
+2026-01-02 15:10:42,065 - INFO - Created Canberra_Median_000_YoY_Growth
+2026-01-02 15:10:42,067 - INFO - Created National_Median_000_YoY_Growth
+2026-01-02 15:10:42,069 - INFO - Created Sydney_Median_000_QoQ_Growth
+2026-01-02 15:10:42,070 - INFO - Created Melbourne_Median_000_QoQ_Growth
+2026-01-02 15:10:42,072 - INFO - Created Brisbane_Median_000_QoQ_Growth
+2026-01-02 15:10:42,074 - INFO - Created Adelaide_Median_000_QoQ_Growth
+2026-01-02 15:10:42,077 - INFO - Created Perth_Median_000_QoQ_Growth
+2026-01-02 15:10:42,078 - INFO - Created Hobart_Median_000_QoQ_Growth
+2026-01-02 15:10:42,080 - INFO - Created Darwin_Median_000_QoQ_Growth
+2026-01-02 15:10:42,082 - INFO - Created Canberra_Median_000_QoQ_Growth
+2026-01-02 15:10:42,083 - INFO - Created National_Median_000_QoQ_Growth
+2026-01-02 15:10:42,086 - INFO - Created volatility metrics for Sydney_Median_000
+2026-01-02 15:10:42,088 - INFO - Created volatility metrics for Melbourne_Median_000
+2026-01-02 15:10:42,090 - INFO - Created volatility metrics for Brisbane_Median_000
+2026-01-02 15:10:42,092 - INFO - Created volatility metrics for Adelaide_Median_000
+2026-01-02 15:10:42,094 - INFO - Created volatility metrics for Perth_Median_000
+2026-01-02 15:10:42,096 - INFO - Created volatility metrics for Hobart_Median_000
+2026-01-02 15:10:42,098 - INFO - Created volatility metrics for Darwin_Median_000
+2026-01-02 15:10:42,099 - INFO - Created volatility metrics for Canberra_Median_000
+2026-01-02 15:10:42,101 - INFO - Created volatility metrics for National_Median_000
+2026-01-02 15:10:42,110 - INFO - Created market indicators
+2026-01-02 15:10:42,119 - INFO - Created lagged features with lags: [1, 2, 4]
+2026-01-02 15:10:42,272 - INFO - Exported transformed data to transformed_data\median_prices_transformed.csv
+2026-01-02 15:10:42,275 - INFO - Transforming dwelling values dataset...
+2026-01-02 15:10:42,276 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_MA2
+2026-01-02 15:10:42,278 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_MA4
+2026-01-02 15:10:42,279 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_YoY_Growth
+2026-01-02 15:10:42,281 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_QoQ_Growth
+2026-01-02 15:10:42,286 - INFO - Created market indicators
+2026-01-02 15:10:42,313 - INFO - Exported transformed data to transformed_data\dwelling_values_transformed.csv
+2026-01-02 15:10:42,316 - INFO - Transforming interest rates dataset...
+2026-01-02 15:10:42,360 - INFO - Exported transformed data to transformed_data\interest_rates_transformed.csv
+2026-01-02 15:10:42,362 - INFO - Stage 4 completed successfully
+2026-01-02 15:10:42,363 - INFO - ============================================================
+2026-01-02 15:10:42,363 - INFO - STAGE 5: STATISTICAL ANALYSIS
+2026-01-02 15:10:42,363 - INFO - ============================================================
+2026-01-02 15:10:45,191 - INFO - Calculating descriptive statistics...
+2026-01-02 15:10:45,251 - INFO - Performing regional comparison...
+2026-01-02 15:10:45,280 - INFO - Analysing trends for National_Median_000...
+2026-01-02 15:10:45,428 - INFO - Calculating correlations...
+2026-01-02 15:10:45,450 - INFO - Generating 4-period forecast...
+2026-01-02 15:10:45,452 - INFO - Generating market scenarios...
+2026-01-02 15:10:45,484 - INFO - Results saved to analysis_output
+2026-01-02 15:10:45,504 - INFO - Stage 5 completed successfully
+2026-01-02 15:10:45,505 - INFO - ============================================================
+2026-01-02 15:10:45,505 - INFO - PIPELINE COMPLETE
+2026-01-02 15:10:45,505 - INFO - ============================================================
+2026-01-02 15:10:45,505 - INFO - Total duration: 0:00:11.846779
+2026-01-02 15:20:47,140 - INFO - Starting full pipeline at 2026-01-02 15:20:47.139314
+2026-01-02 15:20:47,141 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 15:20:47,141 - INFO - ============================================================
+2026-01-02 15:20:47,141 - INFO - STAGE 1: DATA INGESTION
+2026-01-02 15:20:47,141 - INFO - ============================================================
+2026-01-02 15:20:47,859 - INFO - NumExpr defaulting to 6 threads.
+2026-01-02 15:20:48,690 - INFO - Data directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 15:20:48,690 - INFO - Output directory: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 15:20:48,690 - INFO - ============================================================
+2026-01-02 15:20:48,690 - INFO - Starting Data Ingestion Pipeline
+2026-01-02 15:20:48,691 - INFO - ============================================================
+2026-01-02 15:20:48,693 - INFO - Found 8 CSV files in D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data
+2026-01-02 15:20:48,693 - INFO -   - 01_abs_total_value_dwellings.csv
+2026-01-02 15:20:48,693 - INFO -   - 02_abs_mean_dwelling_prices_by_state.csv
+2026-01-02 15:20:48,693 - INFO -   - 03_rba_cash_rate_history.csv
+2026-01-02 15:20:48,694 - INFO -   - 04_abs_capital_city_population.csv
+2026-01-02 15:20:48,694 - INFO -   - 05_abs_dwelling_approvals_monthly.csv
+2026-01-02 15:20:48,694 - INFO -   - 06_corelogic_home_value_index.csv
+2026-01-02 15:20:48,694 - INFO -   - 07_capital_city_median_prices_quarterly.csv
+2026-01-02 15:20:48,694 - INFO -   - 08_housing_affordability_metrics.csv
+2026-01-02 15:20:48,695 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\01_abs_total_value_dwellings.csv
+2026-01-02 15:20:48,701 - INFO - Loaded 21 rows, 3 columns
+2026-01-02 15:20:48,706 - INFO - [OK] Successfully loaded: dwelling_value
+2026-01-02 15:20:48,706 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\03_rba_cash_rate_history.csv
+2026-01-02 15:20:48,709 - INFO - Loaded 116 rows, 3 columns
+2026-01-02 15:20:48,711 - INFO - [OK] Successfully loaded: cash_rate
+2026-01-02 15:20:48,711 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\05_abs_dwelling_approvals_monthly.csv
+2026-01-02 15:20:48,714 - INFO - Loaded 59 rows, 7 columns
+2026-01-02 15:20:48,717 - INFO - [OK] Successfully loaded: dwelling_approvals
+2026-01-02 15:20:48,717 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\04_abs_capital_city_population.csv
+2026-01-02 15:20:48,720 - INFO - Loaded 9 rows, 8 columns
+2026-01-02 15:20:48,722 - INFO - [OK] Successfully loaded: population
+2026-01-02 15:20:48,723 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\07_capital_city_median_prices_quarterly.csv
+2026-01-02 15:20:48,725 - INFO - Loaded 43 rows, 11 columns
+2026-01-02 15:20:48,728 - INFO - [OK] Successfully loaded: median_prices
+2026-01-02 15:20:48,729 - INFO - Loading file: D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\06_corelogic_home_value_index.csv
+2026-01-02 15:20:48,731 - INFO - Loaded 35 rows, 12 columns
+2026-01-02 15:20:48,735 - INFO - [OK] Successfully loaded: home_value_index
+2026-01-02 15:20:48,737 - INFO - Ingestion log saved to D:\Users\CameronWalker\Documents\15. Work\New Roles - Data Science\Projects\Housing\raw_data\ingestion_log.json
+2026-01-02 15:20:48,737 - INFO - ============================================================
+2026-01-02 15:20:48,737 - INFO - Ingestion Complete: 6/6 files loaded
+2026-01-02 15:20:48,737 - INFO - ============================================================
+2026-01-02 15:20:48,746 - INFO - Stage 1 completed successfully
+2026-01-02 15:20:48,746 - INFO -  
+2026-01-02 15:20:48,746 - INFO - ============================================================
+2026-01-02 15:20:48,747 - INFO - STAGE 2: DATA STAGING
+2026-01-02 15:20:48,747 - INFO - ============================================================
+2026-01-02 15:20:48,752 - INFO - Staging dwelling values data...
+2026-01-02 15:20:48,752 - INFO - Profiling dataset: dwelling_values
+2026-01-02 15:20:48,767 - INFO - Removed 0 duplicate rows
+2026-01-02 15:20:49,411 - INFO - Exported staged data to staged_data\dwelling_values_staged.csv
+2026-01-02 15:20:49,414 - INFO - Staging cash rate data...
+2026-01-02 15:20:49,414 - INFO - Profiling dataset: cash_rate
+2026-01-02 15:20:49,425 - INFO - Removed 0 duplicate rows
+2026-01-02 15:20:49,454 - INFO - Exported staged data to staged_data\cash_rate_staged.csv
+2026-01-02 15:20:49,457 - INFO - Staging median prices data...
+2026-01-02 15:20:49,457 - INFO - Profiling dataset: median_prices
+2026-01-02 15:20:49,564 - INFO - Exported staged data to staged_data\median_prices_staged.csv
+2026-01-02 15:20:49,569 - INFO - Profiling report saved to staged_data\profiling_report.json
+2026-01-02 15:20:49,570 - INFO - Cleansing log saved to staged_data\cleansing_log.json
+2026-01-02 15:20:49,571 - INFO - Stage 2 completed successfully
+2026-01-02 15:20:49,571 - INFO - ============================================================
+2026-01-02 15:20:49,571 - INFO - STAGE 3: DATABASE STORAGE
+2026-01-02 15:20:49,571 - INFO - ============================================================
+2026-01-02 15:20:49,588 - INFO - Connected to database: australian_housing.db
+2026-01-02 15:20:49,775 - ERROR - Error executing: -- ===============================================... - view vw_price_summary_by_city already exists
+2026-01-02 15:20:49,775 - ERROR - Error executing: -- View: Market Overview
+        CREATE VIEW vw_ma... - view vw_market_overview already exists
+2026-01-02 15:20:49,775 - ERROR - Error executing: -- View: Affordability Metrics
+        CREATE VIEW... - view vw_affordability_metrics already exists
+2026-01-02 15:20:49,776 - INFO - Database schema created successfully
+2026-01-02 15:20:49,776 - INFO - Populating dim_date from 2015 to 2026
+2026-01-02 15:20:49,990 - INFO - Populated 4383 date records
+2026-01-02 15:20:49,997 - INFO - Populated 12 location records
+2026-01-02 15:20:50,004 - INFO - Populated 5 property type records
+2026-01-02 15:20:50,014 - INFO - Database connection closed
+2026-01-02 15:20:50,015 - INFO - Stage 3 completed successfully
+2026-01-02 15:20:50,015 - INFO - ============================================================
+2026-01-02 15:20:50,015 - INFO - STAGE 4: DATA TRANSFORMATION
+2026-01-02 15:20:50,016 - INFO - ============================================================
+2026-01-02 15:20:50,021 - INFO - Transforming prices dataset...
+2026-01-02 15:20:50,022 - INFO - Created Sydney_Median_000_MA2
+2026-01-02 15:20:50,023 - INFO - Created Sydney_Median_000_MA4
+2026-01-02 15:20:50,024 - INFO - Created Melbourne_Median_000_MA2
+2026-01-02 15:20:50,025 - INFO - Created Melbourne_Median_000_MA4
+2026-01-02 15:20:50,026 - INFO - Created Brisbane_Median_000_MA2
+2026-01-02 15:20:50,027 - INFO - Created Brisbane_Median_000_MA4
+2026-01-02 15:20:50,028 - INFO - Created Adelaide_Median_000_MA2
+2026-01-02 15:20:50,029 - INFO - Created Adelaide_Median_000_MA4
+2026-01-02 15:20:50,030 - INFO - Created Perth_Median_000_MA2
+2026-01-02 15:20:50,031 - INFO - Created Perth_Median_000_MA4
+2026-01-02 15:20:50,032 - INFO - Created Hobart_Median_000_MA2
+2026-01-02 15:20:50,032 - INFO - Created Hobart_Median_000_MA4
+2026-01-02 15:20:50,033 - INFO - Created Darwin_Median_000_MA2
+2026-01-02 15:20:50,034 - INFO - Created Darwin_Median_000_MA4
+2026-01-02 15:20:50,035 - INFO - Created Canberra_Median_000_MA2
+2026-01-02 15:20:50,036 - INFO - Created Canberra_Median_000_MA4
+2026-01-02 15:20:50,037 - INFO - Created National_Median_000_MA2
+2026-01-02 15:20:50,038 - INFO - Created National_Median_000_MA4
+2026-01-02 15:20:50,040 - INFO - Created Sydney_Median_000_YoY_Growth
+2026-01-02 15:20:50,041 - INFO - Created Melbourne_Median_000_YoY_Growth
+2026-01-02 15:20:50,043 - INFO - Created Brisbane_Median_000_YoY_Growth
+2026-01-02 15:20:50,044 - INFO - Created Adelaide_Median_000_YoY_Growth
+2026-01-02 15:20:50,046 - INFO - Created Perth_Median_000_YoY_Growth
+2026-01-02 15:20:50,048 - INFO - Created Hobart_Median_000_YoY_Growth
+2026-01-02 15:20:50,049 - INFO - Created Darwin_Median_000_YoY_Growth
+2026-01-02 15:20:50,051 - INFO - Created Canberra_Median_000_YoY_Growth
+2026-01-02 15:20:50,052 - INFO - Created National_Median_000_YoY_Growth
+2026-01-02 15:20:50,054 - INFO - Created Sydney_Median_000_QoQ_Growth
+2026-01-02 15:20:50,055 - INFO - Created Melbourne_Median_000_QoQ_Growth
+2026-01-02 15:20:50,057 - INFO - Created Brisbane_Median_000_QoQ_Growth
+2026-01-02 15:20:50,058 - INFO - Created Adelaide_Median_000_QoQ_Growth
+2026-01-02 15:20:50,060 - INFO - Created Perth_Median_000_QoQ_Growth
+2026-01-02 15:20:50,061 - INFO - Created Hobart_Median_000_QoQ_Growth
+2026-01-02 15:20:50,063 - INFO - Created Darwin_Median_000_QoQ_Growth
+2026-01-02 15:20:50,065 - INFO - Created Canberra_Median_000_QoQ_Growth
+2026-01-02 15:20:50,067 - INFO - Created National_Median_000_QoQ_Growth
+2026-01-02 15:20:50,070 - INFO - Created volatility metrics for Sydney_Median_000
+2026-01-02 15:20:50,072 - INFO - Created volatility metrics for Melbourne_Median_000
+2026-01-02 15:20:50,074 - INFO - Created volatility metrics for Brisbane_Median_000
+2026-01-02 15:20:50,076 - INFO - Created volatility metrics for Adelaide_Median_000
+2026-01-02 15:20:50,078 - INFO - Created volatility metrics for Perth_Median_000
+2026-01-02 15:20:50,080 - INFO - Created volatility metrics for Hobart_Median_000
+2026-01-02 15:20:50,083 - INFO - Created volatility metrics for Darwin_Median_000
+2026-01-02 15:20:50,085 - INFO - Created volatility metrics for Canberra_Median_000
+2026-01-02 15:20:50,087 - INFO - Created volatility metrics for National_Median_000
+2026-01-02 15:20:50,094 - INFO - Created market indicators
+2026-01-02 15:20:50,105 - INFO - Created lagged features with lags: [1, 2, 4]
+2026-01-02 15:20:50,261 - INFO - Exported transformed data to transformed_data\median_prices_transformed.csv
+2026-01-02 15:20:50,264 - INFO - Transforming dwelling values dataset...
+2026-01-02 15:20:50,265 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_MA2
+2026-01-02 15:20:50,266 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_MA4
+2026-01-02 15:20:50,268 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_YoY_Growth
+2026-01-02 15:20:50,270 - INFO - Created Total_Value_Dwelling_Stock_Billion_AUD_QoQ_Growth
+2026-01-02 15:20:50,275 - INFO - Created market indicators
+2026-01-02 15:20:50,303 - INFO - Exported transformed data to transformed_data\dwelling_values_transformed.csv
+2026-01-02 15:20:50,306 - INFO - Transforming interest rates dataset...
+2026-01-02 15:20:50,354 - INFO - Exported transformed data to transformed_data\interest_rates_transformed.csv
+2026-01-02 15:20:50,356 - INFO - Stage 4 completed successfully
+2026-01-02 15:20:50,357 - INFO - ============================================================
+2026-01-02 15:20:50,357 - INFO - STAGE 5: STATISTICAL ANALYSIS
+2026-01-02 15:20:50,357 - INFO - ============================================================
+2026-01-02 15:20:53,408 - INFO - Calculating descriptive statistics...
+2026-01-02 15:20:53,467 - INFO - Performing regional comparison...
+2026-01-02 15:20:53,496 - INFO - Analysing trends for National_Median_000...
+2026-01-02 15:20:53,523 - INFO - Calculating correlations...
+2026-01-02 15:20:53,545 - INFO - Generating 4-period forecast...
+2026-01-02 15:20:53,547 - INFO - Generating market scenarios...
+2026-01-02 15:20:53,581 - INFO - Results saved to analysis_output
+2026-01-02 15:20:53,601 - INFO - Stage 5 completed successfully
+2026-01-02 15:20:53,601 - INFO - ============================================================
+2026-01-02 15:20:53,601 - INFO - PIPELINE COMPLETE
+2026-01-02 15:20:53,601 - INFO - ============================================================
+2026-01-02 15:20:53,601 - INFO - Total duration: 0:00:06.461871

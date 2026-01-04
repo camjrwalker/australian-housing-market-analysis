@@ -1,0 +1,405 @@
+{
+  "descriptive_stats": {
+    "count": {
+      "Sydney_Median_000": 43.0,
+      "Melbourne_Median_000": 43.0,
+      "Brisbane_Median_000": 43.0,
+      "Adelaide_Median_000": 43.0,
+      "Perth_Median_000": 43.0,
+      "Hobart_Median_000": 43.0,
+      "Darwin_Median_000": 43.0,
+      "Canberra_Median_000": 43.0,
+      "National_Median_000": 43.0
+    },
+    "mean": {
+      "Sydney_Median_000": 1184.3,
+      "Melbourne_Median_000": 857.56,
+      "Brisbane_Median_000": 730.81,
+      "Adelaide_Median_000": 681.4,
+      "Perth_Median_000": 623.72,
+      "Hobart_Median_000": 579.77,
+      "Darwin_Median_000": 526.86,
+      "Canberra_Median_000": 808.6,
+      "National_Median_000": 756.4
+    },
+    "std": {
+      "Sydney_Median_000": 182.46,
+      "Melbourne_Median_000": 118.7,
+      "Brisbane_Median_000": 251.95,
+      "Adelaide_Median_000": 247.79,
+      "Perth_Median_000": 206.61,
+      "Hobart_Median_000": 164.31,
+      "Darwin_Median_000": 71.77,
+      "Canberra_Median_000": 162.72,
+      "National_Median_000": 158.27
+    },
+    "min": {
+      "Sydney_Median_000": 850.0,
+      "Melbourne_Median_000": 590.0,
+      "Brisbane_Median_000": 470.0,
+      "Adelaide_Median_000": 420.0,
+      "Perth_Median_000": 445.0,
+      "Hobart_Median_000": 350.0,
+      "Darwin_Median_000": 450.0,
+      "Canberra_Median_000": 580.0,
+      "National_Median_000": 540.0
+    },
+    "q1": {
+      "Sydney_Median_000": 1030.0,
+      "Melbourne_Median_000": 780.0,
+      "Brisbane_Median_000": 525.0,
+      "Adelaide_Median_000": 472.5,
+      "Perth_Median_000": 467.5,
+      "Hobart_Median_000": 445.0,
+      "Darwin_Median_000": 465.0,
+      "Canberra_Median_000": 685.0,
+      "National_Median_000": 635.0
+    },
+    "median": {
+      "Sydney_Median_000": 1150.0,
+      "Melbourne_Median_000": 860.0,
+      "Brisbane_Median_000": 580.0,
+      "Adelaide_Median_000": 555.0,
+      "Perth_Median_000": 515.0,
+      "Hobart_Median_000": 505.0,
+      "Darwin_Median_000": 500.0,
+      "Canberra_Median_000": 720.0,
+      "National_Median_000": 675.0
+    },
+    "q3": {
+      "Sydney_Median_000": 1357.5,
+      "Melbourne_Median_000": 967.5,
+      "Brisbane_Median_000": 925.0,
+      "Adelaide_Median_000": 877.5,
+      "Perth_Median_000": 730.0,
+      "Hobart_Median_000": 747.5,
+      "Darwin_Median_000": 590.0,
+      "Canberra_Median_000": 990.0,
+      "National_Median_000": 892.5
+    },
+    "max": {
+      "Sydney_Median_000": 1530.0,
+      "Melbourne_Median_000": 1030.0,
+      "Brisbane_Median_000": 1280.0,
+      "Adelaide_Median_000": 1220.0,
+      "Perth_Median_000": 1165.0,
+      "Hobart_Median_000": 810.0,
+      "Darwin_Median_000": 710.0,
+      "Canberra_Median_000": 1060.0,
+      "National_Median_000": 1100.0
+    },
+    "skewness": {
+      "Sydney_Median_000": 0.12,
+      "Melbourne_Median_000": -0.42,
+      "Brisbane_Median_000": 0.71,
+      "Adelaide_Median_000": 0.72,
+      "Perth_Median_000": 1.17,
+      "Hobart_Median_000": 0.09,
+      "Darwin_Median_000": 0.7,
+      "Canberra_Median_000": 0.21,
+      "National_Median_000": 0.53
+    },
+    "kurtosis": {
+      "Sydney_Median_000": -1.18,
+      "Melbourne_Median_000": -0.68,
+      "Brisbane_Median_000": -0.97,
+      "Adelaide_Median_000": -0.91,
+      "Perth_Median_000": 0.23,
+      "Hobart_Median_000": -1.66,
+      "Darwin_Median_000": -0.64,
+      "Canberra_Median_000": -1.71,
+      "National_Median_000": -1.08
+    },
+    "iqr": {
+      "Sydney_Median_000": 327.5,
+      "Melbourne_Median_000": 187.5,
+      "Brisbane_Median_000": 400.0,
+      "Adelaide_Median_000": 405.0,
+      "Perth_Median_000": 262.5,
+      "Hobart_Median_000": 302.5,
+      "Darwin_Median_000": 125.0,
+      "Canberra_Median_000": 305.0,
+      "National_Median_000": 257.5
+    },
+    "cv": {
+      "Sydney_Median_000": 15.41,
+      "Melbourne_Median_000": 13.84,
+      "Brisbane_Median_000": 34.48,
+      "Adelaide_Median_000": 36.37,
+      "Perth_Median_000": 33.13,
+      "Hobart_Median_000": 28.34,
+      "Darwin_Median_000": 13.62,
+      "Canberra_Median_000": 20.12,
+      "National_Median_000": 20.92
+    }
+  },
+  "regional_comparison": {
+    "Current_Price_000": {
+      "Sydney": 1530.0,
+      "Melbourne": 1020.0,
+      "Brisbane": 1280.0,
+      "Adelaide": 1220.0,
+      "Perth": 1165.0,
+      "Hobart": 750.0,
+      "Darwin": 710.0,
+      "Canberra": 1060.0,
+      "National": 1100.0
+    },
+    "Price_5Yr_Ago_000": {
+      "Sydney": 1080.0,
+      "Melbourne": 825.0,
+      "Brisbane": 615.0,
+      "Adelaide": 590.0,
+      "Perth": 520.0,
+      "Hobart": 555.0,
+      "Darwin": 480.0,
+      "Canberra": 770.0,
+      "National": 685.0
+    },
+    "5Yr_Growth_Percent": {
+      "Sydney": 41.67,
+      "Melbourne": 23.64,
+      "Brisbane": 108.13,
+      "Adelaide": 106.78,
+      "Perth": 124.04,
+      "Hobart": 35.14,
+      "Darwin": 47.92,
+      "Canberra": 37.66,
+      "National": 60.58
+    },
+    "1Yr_Growth_Percent": {
+      "Sydney": 7.37,
+      "Melbourne": 4.62,
+      "Brisbane": 12.28,
+      "Adelaide": 11.93,
+      "Perth": 16.5,
+      "Hobart": 0.67,
+      "Darwin": 12.7,
+      "Canberra": 5.47,
+      "National": 10.55
+    },
+    "Volatility": {
+      "Sydney": 3.07,
+      "Melbourne": 2.81,
+      "Brisbane": 2.42,
+      "Adelaide": 1.83,
+      "Perth": 2.61,
+      "Hobart": 3.07,
+      "Darwin": 2.01,
+      "Canberra": 1.88,
+      "National": 2.3
+    },
+    "Peak_Price_000": {
+      "Sydney": 1530.0,
+      "Melbourne": 1030.0,
+      "Brisbane": 1280.0,
+      "Adelaide": 1220.0,
+      "Perth": 1165.0,
+      "Hobart": 810.0,
+      "Darwin": 710.0,
+      "Canberra": 1060.0,
+      "National": 1100.0
+    },
+    "Trough_Price_000": {
+      "Sydney": 850.0,
+      "Melbourne": 590.0,
+      "Brisbane": 470.0,
+      "Adelaide": 420.0,
+      "Perth": 445.0,
+      "Hobart": 350.0,
+      "Darwin": 450.0,
+      "Canberra": 580.0,
+      "National": 540.0
+    },
+    "Peak_to_Current_Percent": {
+      "Sydney": 0.0,
+      "Melbourne": -0.97,
+      "Brisbane": 0.0,
+      "Adelaide": 0.0,
+      "Perth": 0.0,
+      "Hobart": -7.41,
+      "Darwin": 0.0,
+      "Canberra": 0.0,
+      "National": 0.0
+    }
+  },
+  "National_Median_000_trend": {
+    "trend_slope": 11.849139232860162,
+    "trend_intercept": 507.5634249471459,
+    "trend_direction": "Upward",
+    "r_squared": 0.8836881705968928,
+    "avg_period_change": 13.333333333333334,
+    "avg_period_change_pct": 1.733691960737381,
+    "total_change": "560",
+    "total_change_pct": 103.70370370370372,
+    "periods_positive": "31",
+    "periods_negative": "8"
+  },
+  "correlation_matrix": {
+    "Sydney_Median_000": {
+      "Sydney_Median_000": 1.0,
+      "Melbourne_Median_000": 0.966159267589797,
+      "Brisbane_Median_000": 0.9181044573211288,
+      "Adelaide_Median_000": 0.9052724887072855,
+      "Perth_Median_000": 0.8399497664082685,
+      "Hobart_Median_000": 0.8940963794610469,
+      "Darwin_Median_000": 0.8169390520854993,
+      "Canberra_Median_000": 0.9405940827021978,
+      "National_Median_000": 0.9688404414453978
+    },
+    "Melbourne_Median_000": {
+      "Sydney_Median_000": 0.966159267589797,
+      "Melbourne_Median_000": 1.0,
+      "Brisbane_Median_000": 0.8418202681579074,
+      "Adelaide_Median_000": 0.8309377876205178,
+      "Perth_Median_000": 0.7124054808265595,
+      "Hobart_Median_000": 0.9156848050254559,
+      "Darwin_Median_000": 0.6838236426471301,
+      "Canberra_Median_000": 0.9260712704119092,
+      "National_Median_000": 0.9126753100818681
+    },
+    "Brisbane_Median_000": {
+      "Sydney_Median_000": 0.9181044573211288,
+      "Melbourne_Median_000": 0.8418202681579074,
+      "Brisbane_Median_000": 1.0,
+      "Adelaide_Median_000": 0.9987066775687768,
+      "Perth_Median_000": 0.970887546144547,
+      "Hobart_Median_000": 0.9004877291156873,
+      "Darwin_Median_000": 0.9415580175094946,
+      "Canberra_Median_000": 0.9555709467049815,
+      "National_Median_000": 0.9866068226773146
+    },
+    "Adelaide_Median_000": {
+      "Sydney_Median_000": 0.9052724887072855,
+      "Melbourne_Median_000": 0.8309377876205178,
+      "Brisbane_Median_000": 0.9987066775687768,
+      "Adelaide_Median_000": 1.0,
+      "Perth_Median_000": 0.9718203194129605,
+      "Hobart_Median_000": 0.895356927174627,
+      "Darwin_Median_000": 0.9351243423516028,
+      "Canberra_Median_000": 0.9509038996087175,
+      "National_Median_000": 0.9812300510932871
+    },
+    "Perth_Median_000": {
+      "Sydney_Median_000": 0.8399497664082685,
+      "Melbourne_Median_000": 0.7124054808265595,
+      "Brisbane_Median_000": 0.970887546144547,
+      "Adelaide_Median_000": 0.9718203194129605,
+      "Perth_Median_000": 1.0,
+      "Hobart_Median_000": 0.7769392677648423,
+      "Darwin_Median_000": 0.959212326187945,
+      "Canberra_Median_000": 0.8626003669527683,
+      "National_Median_000": 0.9352555348307128
+    },
+    "Hobart_Median_000": {
+      "Sydney_Median_000": 0.8940963794610469,
+      "Melbourne_Median_000": 0.9156848050254559,
+      "Brisbane_Median_000": 0.9004877291156873,
+      "Adelaide_Median_000": 0.895356927174627,
+      "Perth_Median_000": 0.7769392677648423,
+      "Hobart_Median_000": 1.0,
+      "Darwin_Median_000": 0.8007171998558191,
+      "Canberra_Median_000": 0.9851121400753198,
+      "National_Median_000": 0.9210542312149214
+    },
+    "Darwin_Median_000": {
+      "Sydney_Median_000": 0.8169390520854993,
+      "Melbourne_Median_000": 0.6838236426471301,
+      "Brisbane_Median_000": 0.9415580175094946,
+      "Adelaide_Median_000": 0.9351243423516028,
+      "Perth_Median_000": 0.959212326187945,
+      "Hobart_Median_000": 0.8007171998558191,
+      "Darwin_Median_000": 1.0,
+      "Canberra_Median_000": 0.8690935368071196,
+      "National_Median_000": 0.9082190448874126
+    },
+    "Canberra_Median_000": {
+      "Sydney_Median_000": 0.9405940827021978,
+      "Melbourne_Median_000": 0.9260712704119092,
+      "Brisbane_Median_000": 0.9555709467049815,
+      "Adelaide_Median_000": 0.9509038996087175,
+      "Perth_Median_000": 0.8626003669527683,
+      "Hobart_Median_000": 0.9851121400753198,
+      "Darwin_Median_000": 0.8690935368071196,
+      "Canberra_Median_000": 1.0,
+      "National_Median_000": 0.9717626363410133
+    },
+    "National_Median_000": {
+      "Sydney_Median_000": 0.9688404414453978,
+      "Melbourne_Median_000": 0.9126753100818681,
+      "Brisbane_Median_000": 0.9866068226773146,
+      "Adelaide_Median_000": 0.9812300510932871,
+      "Perth_Median_000": 0.9352555348307128,
+      "Hobart_Median_000": 0.9210542312149214,
+      "Darwin_Median_000": 0.9082190448874126,
+      "Canberra_Median_000": 0.9717626363410133,
+      "National_Median_000": 1.0
+    }
+  },
+  "forecast": {
+    "method": "Exponential Smoothing with Trend",
+    "smoothing_parameter": 0.3,
+    "last_actual": "1100",
+    "forecasts": [
+      1047.9182721644368,
+      1066.110852846905,
+      1084.3034335293733,
+      1102.4960142118414
+    ],
+    "forecast_periods": 4,
+    "confidence_interval_95": {
+      "lower": [
+        1013.0398165411344,
+        1016.7852678698026,
+        1023.8921763002772,
+        1032.7391029652367
+      ],
+      "upper": [
+        1082.796727787739,
+        1115.436437824007,
+        1144.7146907584693,
+        1172.252925458446
+      ]
+    },
+    "trend_direction": "Upward",
+    "estimated_quarterly_change": 18.19258068246819
+  },
+  "scenarios": {
+    "base_case": {
+      "description": "Rates stable, moderate growth continues",
+      "assumptions": {
+        "rate_change": 0,
+        "growth_rate": 0.05
+      },
+      "price_12m": 1155.0
+    },
+    "bull_case": {
+      "description": "Rate cuts, strong economic growth",
+      "assumptions": {
+        "rate_change": -0.5,
+        "growth_rate": 0.1
+      },
+      "price_12m": 1210.0
+    },
+    "bear_case": {
+      "description": "Rate rises, economic slowdown",
+      "assumptions": {
+        "rate_change": 0.5,
+        "growth_rate": -0.05
+      },
+      "price_12m": 1045.0
+    },
+    "severe_downturn": {
+      "description": "Recession, credit tightening",
+      "assumptions": {
+        "rate_change": 0.25,
+        "growth_rate": -0.15
+      },
+      "price_12m": 935.0
+    },
+    "current_conditions": {
+      "price": "1100",
+      "interest_rate": 3.6
+    }
+  }
+}
